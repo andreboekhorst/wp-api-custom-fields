@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: WP REST API Extended
+ * Plugin Name: WP REST API Custom Fields
  * Description: Adds meta fields to WP Rest JSON output.
  * Version: 0.1
  * Author: André Boekhorst (based on work from @panman)
